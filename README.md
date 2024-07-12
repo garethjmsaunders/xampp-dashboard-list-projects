@@ -6,7 +6,7 @@ PHP code to list project directories in XAMPP htdocs on the Dashboard
 
 The default XAMPP `/dashboard/` displays the XAMPP version number, some introductory text and a paragraph about the XAMPP community.
 
-I've often wished that it also listed the project directories that I have within the `\htdocs\` directory. So I have created this simple script.
+I've often wished that it also listed the project directories that I have within the `/htdocs/` directory. So I have created this simple script.
 
 ## How to use it
 
