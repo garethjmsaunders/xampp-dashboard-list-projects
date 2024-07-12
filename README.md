@@ -10,8 +10,8 @@ I've often wished that it also listed the project directories that I have within
 
 ## How to use it
 
-1. Navigate to xampp/dashboard
-2. Change index.html to index.php
+1. Navigate to `xampp/dashboard/`.
+2. Change `index.html` to `index.php`.
 3. Insert the following code before the Community H3 heading; this code:
 
 ```
@@ -22,4 +22,4 @@ I've often wished that it also listed the project directories that I have within
 </div>
 ```
 
-That's it. Enjoy!
+Er... That's it. Enjoy!
