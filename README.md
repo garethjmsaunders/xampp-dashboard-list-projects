@@ -12,14 +12,5 @@ I've often wished that it also listed the project directories that I have within
 
 1. Navigate to `xampp/htdocs/dashboard/`.
 2. Change `index.html` to `index.php`.
-3. Insert the following code before the Community H3 heading; this code:
-
-```
-<div class="row">
-  <div class="large-12 columns">
-    <h3>Community</h3>
-  </div>
-</div>
-```
-
-Er... That's it. Enjoy!
+3. Insert the code in `snippet.php` just before the Community H3 heading as a new row
+4. Err... That's it. Enjoy!
